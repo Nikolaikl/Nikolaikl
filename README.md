@@ -1,9 +1,5 @@
-* 👋 Hallö, I’m @Nikolaikl 
+* 👋 Hallo, I’m Nikolai (5putnick) 
 * 👀 I’m interested in training small to large models and bringing them into production #MLOPS
-* 🌱 I’m currently learning Rust and some LLM related stuff
-* 📫 How to reach me on twitter.com/klassen_nikolai or at Nikolai.Klassen@proton.me
-
-<!---
-Nikolaikl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🌱 I’m currently learning lots of frontend stuff
+* 📫 emails should go to Nikolai.Klassen@proton.me or just tag me
+- [ ] (finish polishing my static site's css)[https://nikolaikl.github.io/about-me/] ... 
